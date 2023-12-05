@@ -1,11 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Shivesh</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiveshsinghrao&label=Profile%20views&color=0e75b6&style=flat" alt="shiveshsinghrao" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shivesh_rap" target="blank"><img src="https://img.shields.io/twitter/follow/shivesh_rap?logo=twitter&style=for-the-badge" alt="shivesh_rap" /></a> </p>
-<p aligh="right"><img src="https://camo.githubusercontent.com/eefada90804e2564b4871e69fe1fb6c2f247f5821fc1be285fbf36abd0cb4c30/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3036663231613136313932313931392e363363643738383764306137302e676966" alt="gif not working" width="400"/></p> 
+
 - 🔭 I’m currently working on [ELastic Search](https://github.com/ShiveshSinghRao/Log-Register-with-elastic-search)
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -15,7 +15,7 @@
 - 💬 Ask me about **React Express Node C++ DSA**
 
 - 📫 How to reach me **shiveshsinghrao@gmail.com**
-
+<p aligh="right"><img src="https://camo.githubusercontent.com/eefada90804e2564b4871e69fe1fb6c2f247f5821fc1be285fbf36abd0cb4c30/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3036663231613136313932313931392e363363643738383764306137302e676966" alt="gif not working" width="400"/></p> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shivesh_rap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivesh_rap" height="30" width="40" /></a>
