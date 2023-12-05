@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiveshsinghrao&label=Profile%20views&color=0e75b6&style=flat" alt="shiveshsinghrao" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shivesh_rap" target="blank"><img src="https://img.shields.io/twitter/follow/shivesh_rap?logo=twitter&style=for-the-badge" alt="shivesh_rap" /></a> </p>
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div>
+<p align="left"> <a href="https://twitter.com/shivesh_rao" target="blank"><img src="https://img.shields.io/twitter/follow/shivesh_rao?logo=twitter&style=for-the-badge" alt="shivesh_rao" /></a> </p>
+<div style="display: flex;">
+  <div style="display: flex;">
       
 - 🔭 I’m currently working on [ELastic Search](https://github.com/ShiveshSinghRao/Log-Register-with-elastic-search)
 
