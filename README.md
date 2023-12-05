@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivesh</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsponsors%2FKhushiyant&psig=AOvVaw38IjdzVEdRyo3fAA1T_2B0&ust=1701895744369000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjPt-yV-YIDFQAAAAAdAAAAABAF" alt="gif not working"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiveshsinghrao&label=Profile%20views&color=0e75b6&style=flat" alt="shiveshsinghrao" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shivesh_rap" target="blank"><img src="https://img.shields.io/twitter/follow/shivesh_rap?logo=twitter&style=for-the-badge" alt="shivesh_rap" /></a> </p>
