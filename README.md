@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Django and Frappe** has understanding of **MERN STACK**
+- 🌱 I’m currently learning **Django and Frappe** and has understanding of **MERN STACK**
 
 - 👯 I’m looking to collaborate on **the Same**
 
